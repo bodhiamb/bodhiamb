@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bodhiamb
-- 👀 I’m interested in .... Data Analysis and Web design.
-- 🌱 I’m currently learning .... JavaScript,
+- 👀 I’m interested in .... Data Analysis.
+- 🌱 I’m currently learning .... Python and R. 
 - 💞️ I’m looking to collaborate on ...data visualization with R and python...
 - 📫 How to reach me ...you can contact me via my email..
 
